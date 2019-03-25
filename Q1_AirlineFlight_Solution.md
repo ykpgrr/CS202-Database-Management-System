@@ -356,3 +356,5 @@ mysql> SELECT a.aid
 +-----+
 1 row in set (0.00 sec)
 </pre>
+![7to11](temp/7to11.png)
+![11to14](temp/11to14.png)
